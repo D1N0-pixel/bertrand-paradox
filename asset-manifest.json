@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/bertrand-paradox/static/js/main.45579108.chunk.js",
+    "main.js.map": "/bertrand-paradox/static/js/main.45579108.chunk.js.map",
+    "runtime-main.js": "/bertrand-paradox/static/js/runtime-main.ad7c4d2b.js",
+    "runtime-main.js.map": "/bertrand-paradox/static/js/runtime-main.ad7c4d2b.js.map",
+    "static/js/2.0867d058.chunk.js": "/bertrand-paradox/static/js/2.0867d058.chunk.js",
+    "static/js/2.0867d058.chunk.js.map": "/bertrand-paradox/static/js/2.0867d058.chunk.js.map",
+    "index.html": "/bertrand-paradox/index.html",
+    "static/js/2.0867d058.chunk.js.LICENSE.txt": "/bertrand-paradox/static/js/2.0867d058.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad7c4d2b.js",
+    "static/js/2.0867d058.chunk.js",
+    "static/js/main.45579108.chunk.js"
+  ]
+}
